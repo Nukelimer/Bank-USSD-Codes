@@ -49,4 +49,4 @@ async function getBanks(url) {
 
 setTimeout(() => {
   getBanks(URL);
-}, 2000);
+}, 10000);
